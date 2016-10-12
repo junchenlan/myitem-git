@@ -1,0 +1,26 @@
+[
+  [
+    {"imgsrc":"../imgs/business/bus1.jpg","desc":"走进“蓝色星球上最后一片净土”，领略魅力康南最具代表的景色","rexiao":"热销","tit":"泸州、稻城、亚丁五日游(上海出发)"},
+    {"imgsrc":"../imgs/business/bus1-2.jpg","desc":"一路向北的冒险之旅，让你13天爱上挪威","rexiao":"精选","tit":"挪威：峡湾、冰川、登山深度体验游"},
+    {"imgsrc":"../imgs/business/bus1-3.jpg","desc":"耦园，狮子林，西塘，乌镇，南浔古镇，西湖","rexiao":"迪士尼","tit":"上海迪士尼乐园＋江南古镇5日游"},
+    {"imgsrc":"../imgs/business/bus1-4.jpg","desc":"斯航直飞，上海-科伦坡","rexiao":"","tit":"开启斯里兰卡7日6晚奇幻之旅"}
+  ],
+  [
+    {"imgsrc":"../imgs/business/bus2-1.jpg","desc":"团队建设、素质拓展、公司集体出行 ☆时间，地点，都不是问题，按照需求量身定制","rexiao":"","tit":"“奔跑吧，伙伴”热力开跑"},
+    {"imgsrc":"../imgs/business/bus2-2.jpg","desc":"周边交通便捷，是休闲游乐的好去处。","rexiao":"","tit":"安吉龙王山峡谷漂流3日游"},
+    {"imgsrc":"../imgs/business/bus2-3.jpg","desc":"神龙川、大明山、团队拓展、野外烧烤","rexiao":"","tit":"拓展+烧烤 大明山2日游"},
+    {"imgsrc":"../imgs/business/bus2-4.jpg","desc":"穿越九溪十八涧，杭州茶文化，徒步西湖群山","rexiao":"","tit":"杭州九溪龙井村徒步一日游"}
+  ],
+  [
+    {"imgsrc":"../imgs/business/bus3-1.jpg","desc":"加拿大资深的本地教师和本地学校学习；为学生们提供最贴切真实的异国他乡留学体验。","rexiao":"","tit":"加拿大国际青少年夏令营"},
+    {"imgsrc":"../imgs/business/bus3-2.jpg","desc":"重庆，国家历史文化名城，世界温泉之都。","rexiao":"","tit":"重庆环球自然日 会议活动"},
+    {"imgsrc":"../imgs/business/bus3-3.jpg","desc":"深入两大国家级自然保护区——牛背梁+平河梁，开展临建观察","rexiao":"","tit":"陕西秦岭 深入山林考察"},
+    {"imgsrc":"../imgs/business/bus3-4.jpg","desc":"基础法语、法国文化、法国时尚，香水品鉴、彩妆课程","rexiao":"","tit":"欧洲巴黎营地游学14日"}
+  ],
+  [
+    {"imgsrc":"../imgs/business/bus4-1.jpg","desc":"入住独具特色的温泉酒店，享受天然温泉的礼遇。","rexiao":"","tit":"余姚阳明山庄+余姚阳明温泉1晚2日"},
+    {"imgsrc":"../imgs/business/bus4-2.jpg","desc":"品美食、宿特色、行安心、游顺心、玩开心。","rexiao":"","tit":"哈尔滨-冰雪大世界-亚布力滑雪体验-梦幻雪乡-长白"},
+    {"imgsrc":"../imgs/business/bus4-3.jpg","desc":"集海岛休闲与体验、非欧印度风情于一体！","rexiao":"","tit":"毛里求斯蜜月婚纱摄影8天7晚"},
+    {"imgsrc":"../imgs/business/bus4-4.jpg","desc":"斯航直飞，上海-科伦坡","rexiao":"","tit":"开启斯里兰卡7日6晚奇幻之旅"}
+  ]
+]

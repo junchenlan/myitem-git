@@ -1,0 +1,43 @@
+[
+  [
+    {"imgsrc":"../imgs/foreign/theme/theme1-1.jpg","desc":"故宫","price":"10"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-2.jpg","desc":"圆明园","price":"23"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-3.jpg","desc":"颐和园","price":"60"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-4.jpg","desc":"龙庆峡","price":"135"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-5.jpg","desc":"天坛公园","price":"55"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-6.jpg","desc":"恭王府","price":"40"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-7.jpg","desc":"北京天门山","price":"26"},
+    {"imgsrc":"../imgs/foreign/theme/theme1-8.jpg","desc":"古北水镇","price":"80"}
+
+  ],
+  [
+    {"imgsrc":"../imgs/foreign/theme/theme2-1.jpg","desc":"北京欢乐谷","price":"48"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-2.jpg","desc":"北京杜莎夫人蜡像馆","price":"150"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-3.jpg","desc":"鸟巢CAIA北京会展中心","price":"11"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-4.jpg","desc":"蓝天城儿童职业体验中心","price":"160"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-5.jpg","desc":"中华民族园","price":"75"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-6.jpg","desc":"北京青龙湖公园","price":"18"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-7.jpg","desc":"大美儿童世界","price":"50"},
+    {"imgsrc":"../imgs/foreign/theme/theme2-8.jpg","desc":"七彩蝶园","price":"80"}
+  ],
+  [
+    {"imgsrc":"../imgs/foreign/theme/theme3-1.jpg","desc":"颐和园","price":"60"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-2.jpg","desc":"八达岭长城","price":"40"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-3.jpg","desc":"明十三陵","price":"42"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-4.jpg","desc":"慕田峪长城","price":"26"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-5.jpg","desc":"香山公园","price":"10"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-6.jpg","desc":"周口店北京人遗址","price":"25"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-7.jpg","desc":"北京大观园","price":"30"},
+    {"imgsrc":"../imgs/foreign/theme/theme3-8.jpg","desc":"居庸关长城","price":"37"}
+  ],
+  [
+    {"imgsrc":"../imgs/foreign/theme/theme4-1.jpg","desc":"北京八大处富斯特滑道","price":"44"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-2.jpg","desc":"龙庆峡","price":"135"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-3.jpg","desc":"北京蟒山国家森林公园","price":"0"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-4.jpg","desc":"北京黑龙潭","price":"55"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-5.jpg","desc":"黄花城水长城","price":"40"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-6.jpg","desc":"北京金海湖景区","price":"24"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-7.jpg","desc":"北京桃源仙谷风景区","price":"38"},
+    {"imgsrc":"../imgs/foreign/theme/theme4-8.jpg","desc":"仙栖洞","price":"45"}
+  ]
+]

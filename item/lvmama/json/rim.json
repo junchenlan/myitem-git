@@ -1,0 +1,32 @@
+[
+  [ {"imgsrc":"../imgs/foreign/rim/rim1-1.jpg","ping":"95%","desc":"北京欢乐谷","price":"48"},
+    {"imgsrc":"../imgs/foreign/rim/rim1-2.jpg","ping":"96%","desc":"故宫","price":"10"},
+    {"imgsrc":"../imgs/foreign/rim/rim1-3.jpg","ping":"89%","desc":"圆明园","price":"23"},
+    {"imgsrc":"../imgs/foreign/rim/rim1-4.jpg","ping":"97%","desc":"慕田峪长城","price":"26"}
+  ],
+  [ {"imgsrc":"../imgs/foreign/rim/rim2-1.jpg","ping":"95%","desc":"天津欢乐谷","price":"48"},
+    {"imgsrc":"../imgs/foreign/rim/rim2-2.jpg","ping":"96%","desc":"天津海昌极地海洋世界","price":"10"},
+    {"imgsrc":"../imgs/foreign/rim/rim2-3.jpg","ping":"89%","desc":"天津方特欢乐世界","price":"23"},
+    {"imgsrc":"../imgs/foreign/rim/rim2-4.jpg","ping":"97%","desc":"天津滨海航母主题公园","price":"26"}
+  ],
+  [ {"imgsrc":"../imgs/foreign/rim/rim3-1.jpg","ping":"95%","desc":"香河天下第一城","price":"48"},
+    {"imgsrc":"../imgs/foreign/rim/rim3-2.jpg","ping":"96%","desc":"梦东方·未来世界","price":"100"},
+    {"imgsrc":"../imgs/foreign/rim/rim3-3.jpg","ping":"89%","desc":"蓝天城燕郊店","price":"203"},
+    {"imgsrc":"../imgs/foreign/rim/rim3-4.jpg","ping":"97%","desc":"御禾动物园","price":"46"}
+  ],
+  [ {"imgsrc":"../imgs/foreign/rim/rim4-1.jpg","ping":"95%","desc":"张家口怡馨苑温泉","price":"58"},
+    {"imgsrc":"../imgs/foreign/rim/rim4-2.jpg","ping":"96%","desc":"野狐岭要塞","price":"40"},
+    {"imgsrc":"../imgs/foreign/rim/rim4-3.jpg","ping":"89%","desc":"黄龙山庄","price":"33"},
+    {"imgsrc":"../imgs/foreign/rim/rim4-4.jpg","ping":"97%","desc":"河北鸡鸣山旅游景区","price":"66"}
+  ],
+  [ {"imgsrc":"../imgs/foreign/rim/rim5-1.jpg","ping":"95%","desc":"横头山（金龙山）国家森林","price":"48"},
+    {"imgsrc":"../imgs/foreign/rim/rim5-2.jpg","ping":"96%","desc":"圣索菲亚教堂","price":"50"},
+    {"imgsrc":"../imgs/foreign/rim/rim5-3.jpg","ping":"89%","desc":"哈尔滨极地馆","price":"42"},
+    {"imgsrc":"../imgs/foreign/rim/rim5-4.jpg","ping":"97%","desc":"哈尔滨松峰山","price":"78"}
+  ],
+  [ {"imgsrc":"../imgs/foreign/rim/rim6-1.jpg","ping":"95%","desc":"青岛海昌极地海洋世界","price":"48"},
+    {"imgsrc":"../imgs/foreign/rim/rim6-2.jpg","ping":"96%","desc":"青岛海底世界","price":"41"},
+    {"imgsrc":"../imgs/foreign/rim/rim6-3.jpg","ping":"89%","desc":"青岛方特梦幻王国","price":"36"},
+    {"imgsrc":"../imgs/foreign/rim/rim6-4.jpg","ping":"97%","desc":"青岛世博园","price":"56"}
+  ]
+]
